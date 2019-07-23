@@ -1,0 +1,7 @@
+D:\Matkul\Pemrogaman\GIT\ProjectCustomer2264\ProjectCustomer2264\obj\Debug\ProjectCustomer2264.csprojAssemblyReference.cache
+D:\Matkul\Pemrogaman\GIT\ProjectCustomer2264\ProjectCustomer2264\obj\Debug\ProjectCustomer2264.csproj.CoreCompileInputs.cache
+D:\Matkul\Pemrogaman\GIT\ProjectCustomer2264\ProjectCustomer2264\bin\Debug\ProjectCustomer2264.exe.config
+D:\Matkul\Pemrogaman\GIT\ProjectCustomer2264\ProjectCustomer2264\bin\Debug\ProjectCustomer2264.exe
+D:\Matkul\Pemrogaman\GIT\ProjectCustomer2264\ProjectCustomer2264\bin\Debug\ProjectCustomer2264.pdb
+D:\Matkul\Pemrogaman\GIT\ProjectCustomer2264\ProjectCustomer2264\obj\Debug\ProjectCustomer2264.exe
+D:\Matkul\Pemrogaman\GIT\ProjectCustomer2264\ProjectCustomer2264\obj\Debug\ProjectCustomer2264.pdb
